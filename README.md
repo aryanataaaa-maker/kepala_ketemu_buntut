@@ -1,2 +1,2 @@
 # kepala_ketemu_buntut
-permainan uler-uleran jaman bapak kamu 
+Projek pertama gue di github, simple aja. 
